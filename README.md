@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Pedro Barros, and I am a Brazilian full-stack developer. I started my career in 2012, working initially as a webmaster. Since then, I have been involved in various ReactJS, Redux, NextJS, Angular and Typescript projects.
+
+I am a hard-working and passionate developer who constantly tries to improve my skills and is ready to solve any challenges.
+
+Recognizing the need to understand more about the business rules I am involved in, I expanded my expertise to backend technologies, particularly NodeJS and .NET (C#), PHP, and Java. 
+
+My passion is learning new things 💝
+
 <!--
 **pedromonad/pedromonad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
