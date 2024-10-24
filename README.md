@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Pedro Barros, and I am a Brazilian full-stack developer. I started my career in 2012, working initially as a webmaster. Since then, I have been involved in various ReactJS, Redux, NextJS, Angular and Typescript projects.
+My name is Pedro Barros, and I am a Brazilian full-stack developer. I started my career in 2012, working initially as a webmaster. Since then, I have been involved in various ReactJS, NextJS, Angular, and Typescript projects.
 
 I am a hard-working and passionate developer who constantly tries to improve my skills and is ready to solve any challenges.
 
