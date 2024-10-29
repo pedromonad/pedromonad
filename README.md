@@ -4,7 +4,7 @@ My name is Pedro Barros, and I am a Brazilian full-stack developer. I started my
 
 I am a hard-working and passionate developer who constantly tries to improve my skills and is ready to solve any challenges.
 
-Recognizing the need to understand more about the business rules I am involved in, I expanded my expertise to backend technologies, particularly NodeJS and .NET (C#), PHP, and Java. 
+Recognizing the need to understand more about the business rules I am involved in, I expanded my expertise to backend technologies, particularly NodeJS, .NET (C#), PHP, and Java. 
 
 My passion is learning new things 💝
 
